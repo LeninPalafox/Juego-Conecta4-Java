@@ -1,5 +1,6 @@
 Juego-Conecta4-Java
 ===================
+http://www.leninpalafox.com/
 
 La finalidad de cada jugador para vencer en el 4 en linea es intentar unir una hilera 
 de cuatro fichas de su color, tanto de forma vertical, horizontal como diagonal.
